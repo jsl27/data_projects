@@ -1,6 +1,6 @@
 ### Overview
 
-Airbnb Roadtrips was the company's first-ever big-data consumer PR story, launched in summer 2016.
+I conceived and executed Airbnb Roadtrips, the company's first-ever big-data consumer PR story, launched in summer 2016.
 
 ![](images/roadtrips_landing_design.png)
 
