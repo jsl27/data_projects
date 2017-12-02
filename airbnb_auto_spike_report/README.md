@@ -6,7 +6,7 @@ Integrated with Google Sheets and our internal Presto engine, the 600-line .Rmd 
 
 The project utilized:
 * Dynamic, highly optimized SQL code (just 3 queries pull all data in the report)
-* Advanced ggplot2 and design techniques in R 
+* Advanced ggplot2, design and data manipulating techniques in R 
 * Advanced RMarkdown looping techniques to accomodate multiple events in one report  
 
 ![](images/report1.png)
