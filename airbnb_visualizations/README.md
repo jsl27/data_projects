@@ -29,11 +29,13 @@ This ggplot visualization — using artifical Airbnb data for data privacy reaso
 ![](images/contacts_timeline.png)
 
 
-## Product Insight Charts
+## European Parliament Chart
 
 This ggplot chart shows a surge in guest arrivals from Brussels, Belgium, during plenary sessions of the European Parliament in Strasbourg, France. The chart was featured publicly in [EUobserver.](https://euobserver.com/business/137889)
 
 ![](images/euro_parliament_chart.png)
+
+## Super Bowl Pricing Chart
 
 This ggplot chart, which appeared publicly at the 2017 Hotel Data Conference, visualizes price increases of listings booked for Super Bowl 50 in the Bay Area. The chart was part of a project to inform pricing strategy and product messaging.
 
