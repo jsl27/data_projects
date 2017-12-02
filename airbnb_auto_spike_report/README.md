@@ -1,8 +1,10 @@
 ### Overview 
 
-Events are a key element of tourism — in fact, Airbnb was founded in 2008 to offer affordable accommodation during periods of high, event-driven demand. Many Airbnb teams — local operations, pricing, supply growth, public policy and PR — rely on an understanding of events to inform everything from product changes to city policy negotiations.
+Events are a key driver of tourism. Airbnb teams (local ops, pricing, growth, public policy and PR) rely on an understanding of events to inform their strategic planning.
 
-This "one-button" data product was created in RMarkdown. Integrated with Google Sheets and our internal Presto engine, the .Rmd file downloads event parameters from the Sheet (event name, location, dates), dynamically builds and executies SQL queries, and visualizes the data in a brand-style, ready-to-use .html infographic report.
+This "one-button" data product was created in RMarkdown and facilitate automatic, easy-to-understand data and metrics surrounding events.
+
+Integrated with Google Sheets and our internal Presto engine, the 600-line .Rmd file downloads event parameters from the Sheet (event name, location, dates), dynamically builds and executies SQL queries, and visualizes the data in a brand-style, ready-to-use .html infographic report.
 
 The project utilized:
 * Dynamic, highly optimized SQL code (just 3 queries pull all data in the report)
