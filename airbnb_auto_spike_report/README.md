@@ -1,12 +1,13 @@
 ### Overview 
 
-The report collects parameters about the event (name, location and date range). 
+Events are a key element of tourism — in fact, Airbnb was founded in 2008 to offer affordable accommodation during periods of high, event-driven demand. Many Airbnb teams — local operations, pricing, supply growth, public policy and PR — rely on an understanding of events to inform everything from product changes to city policy negotiations.
 
-Highly optimized SQL code, which requires only three Presto queries to generate all data in the report.
-It integrated advanced R and RMarkdown techniques.
-Advanced RMarkdown techniques were also applied, to allow multiple events.
+This "one-button" data product was created in RMarkdown. Integrated with Google Sheets and our internal Presto engine, the .Rmd file downloads event parameters from the Sheet (event name, location, dates), dynamically builds and executies SQL queries, and visualizes the data in a brand-style, ready-to-use .html infographic report.
 
-Below is an example spike report. For data privacy reasons, the three sections are from three different reports (i.e. events). 
+The project utilized:
+* Dynamic, highly optimized SQL code (just 3 queries pull all data in the report)
+* Advanced ggplot2 and design techniques in R 
+* Advanced RMarkdown looping techniques to accomodate multiple events in one report  
 
 ![](images/report1.png)
 
