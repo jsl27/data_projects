@@ -11,6 +11,6 @@ The project utilized:
 
 ![](images/report1.png)
 
-![](images/report2.png)
-
 ![](images/report3.png)
+
+![](images/report2.png)
