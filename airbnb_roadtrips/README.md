@@ -9,7 +9,7 @@ Roadtrips were defined as a chain of bookings at least three-bookings long, with
 
 ### Learning Roadtrips
 
-Internal Airbnb data on roadtrips, as defined above, was queried using HiveQL. The R package __arules__ was used for this market basket analysis. Top item sets were identified by the highest *support*, which is the proportion of all roadtrips that contain a particular item set.
+Internal Airbnb booking data was queried using HiveQL to identify roadtrips. The R package __arules__ was used for this market basket analysis. Top item sets were identified by the highest *support*, which is the proportion of all roadtrips that contain a particular item set.
 
 The following code can used to run the market basket analysis. Dummy data and dummy parameters are used for data privacy reasons.
 
@@ -49,7 +49,7 @@ rt.toprules <- mapply(c, as(rt.toprules@lhs, "list"), as(rt.toprules@rhs, "list"
 ```
 
 
-### Mapping Roadtrips: Method One
+### Mapping Roadtrips
 
 Driving routes were mapped using the route() function in __ggmap__. The output (using parameter output = \"all\") of route() contains coordinates of the stops along the legs of the route and encoded polylines. There are many ways to decode the polyline into coordinates that R can understand and connect into a driving route. [This function, _decodeLine_, was used in this analysis]( http://s4rdd.blogspot.com/2012/12/google-maps-api-decoding-polylines-for.html).
 
@@ -116,6 +116,8 @@ ids.rt <- list(1, 1, 1, 2, 2, 2, 2)
   
 ```
 
+The following maps are routes from a subset of roadtrips containing the most frequent city sets in consecutive bookings (i.e. trending roadtrips).
+
 ![](images/roadtrip1.png)
 
 ![](images/roadtrip3.png)
@@ -124,5 +126,5 @@ ids.rt <- list(1, 1, 1, 2, 2, 2, 2)
 
 ![](images/roadtrip21.png)
 
-### Mapping Roadtrips: Method One
+
 
