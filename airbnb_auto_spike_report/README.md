@@ -9,6 +9,8 @@ The project utilized:
 * Advanced ggplot2, design and data manipulating techniques in R 
 * Advanced RMarkdown looping techniques to accomodate multiple events in one report  
 
+The following is an example report. For data privacy reasons, the three sections of the report shown here are from three different events, and some data points are also whited-out.
+
 ![](images/report1.png)
 
 ![](images/report3.png)
