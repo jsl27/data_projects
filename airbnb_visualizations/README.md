@@ -37,7 +37,7 @@ This ggplot chart shows a surge in guest arrivals from Brussels, Belgium, during
 
 ## Super Bowl Pricing Chart
 
-This ggplot chart, which appeared publicly at the 2017 Hotel Data Conference, visualizes price increases of listings booked for Super Bowl 50 in the Bay Area. The chart was part of a project to inform pricing strategy and product messaging.
+This ggplot chart shows price increases of listings booked for Super Bowl 50 in the Bay Area. The chart was part of a project to inform pricing strategy and product messaging, and appeared publicly at the 2017 Hotel Data Conference,
 
 ![](images/superbowl_pricing_chart.png)
 
