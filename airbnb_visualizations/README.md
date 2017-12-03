@@ -47,4 +47,4 @@ This ggplot chart shows price increases of listings booked for Super Bowl 50 in 
 
 These R cartograms visualize state-level metrics regarding Airbnb activity in U.S. Census-defined rural areas. This data was part of a [report on Airbnb's economic impact in rural areas around the world.](https://www.airbnbcitizen.com/airbnb-and-rural-hosting/).
 
-
+![](images/cartograms.png)
