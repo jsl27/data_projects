@@ -1,6 +1,6 @@
 ## Travel Corridor Map
 
-This map shows the top international city-to-city travel corridors among [APEC countries](https://www.apec.org/about-us/about-apec/member-economies.aspx), a group of 21 countries along the Pacific Rim. It was created for a November 2017 strategic-partnership [report](https://2sqy5r1jf93u30kwzc1smfqt-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/PC0284-APEC_Report_171107.pdf) about Airbnb's economic impact in the member countries.
+This map shows the top 50,000 international city-to-city travel corridors among [APEC countries](https://www.apec.org/about-us/about-apec/member-economies.aspx), a group of 21 countries along the Pacific Rim. It was created for a November 2017 strategic-partnership [report](https://2sqy5r1jf93u30kwzc1smfqt-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/PC0284-APEC_Report_171107.pdf) about Airbnb's economic impact in the member countries.
 
 Skills engaged:
 
@@ -42,5 +42,9 @@ This ggplot chart shows the surge in guest arrivals from Brussels, Belgium, duri
 This ggplot chart shows price increases of listings booked for Super Bowl 50 in the Bay Area. The chart was part of a project to inform pricing strategy and product messaging, and appeared publicly at the 2017 Hotel Data Conference.
 
 ![](images/superbowl_pricing_chart.png)
+
+### Rural Activity Cartograms
+
+These R cartograms visualize state-level metrics regarding Airbnb activity in U.S. Census-defined rural areas. This data was part of a [report on Airbnb's economic impact in rural areas around the world.](https://www.airbnbcitizen.com/airbnb-and-rural-hosting/).
 
 
