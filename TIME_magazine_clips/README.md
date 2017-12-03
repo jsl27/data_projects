@@ -9,6 +9,7 @@ This October 2014 [article](http://time.com/3475962/asian-american-diversity/) a
 This work generated numerous responses in national media, and it was named to [Gawker's "Best Things We Read in 2014"](http://review.gawker.com/the-best-things-we-read-in-2014-1670504393). Since then, it has been cited in dozens of published academic papers and history books.
 
 
+
 ### [Ebola Healthcare Workers Are Dying Faster Than Their Patients](http://time.com/3475962/asian-american-diversity/)
 
 This October 2014 [article](http://time.com/3453429/ebola-healthcare-workers-fatality-rate/) was a deep-dive into the ostensibly statistically-significance difference of fatality rates between doctors and patients in the 2014 West African Ebola crisis. 
