@@ -4,7 +4,7 @@ Two of my favorite data-journalism bylines from my time as a staff reporter & da
 
 ### [The Real Problem With Asian-American Diversity in the Workforce](http://time.com/3475962/asian-american-diversity/)
 
-This October 2014 [article](http://time.com/3475962/asian-american-diversity/) argued that technology companies' diversity reports ignored clear data-driven evidence of bias against Asian Americans for leadership roles. It was one of TIME's most-read articles of the year, one of the reasons being its direct resurfacing and criticism of TIME's own role in building racism against Asian Americans: TIME's infamous 1987 cover, known by historians as a racist caricature of Asian Americans, and key vehicle in spreading the "model minority myth."
+This October 2014 [article](http://time.com/3475962/asian-american-diversity/) argued that technology companies' diversity reports ignored clear data-driven evidence of bias against Asian Americans for leadership roles. It was one of TIME's most-read articles of the year, one of the reasons being its direct resurfacing and criticism of TIME's own role in building racism against Asian Americans: TIME's infamous 1987 cover, known by historians for its racist caricature of Asian Americans, was a key player in spreading the "model minority myth."
 
 This work generated numerous responses in national media, and it was named to [Gawker's "Best Things We Read in 2014"](http://review.gawker.com/the-best-things-we-read-in-2014-1670504393). Since then, it has been cited in dozens of published academic papers and history books.
 
