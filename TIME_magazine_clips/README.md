@@ -1,4 +1,4 @@
-## Data Journalism Selected Clips
+## Selected Data Journalism Clips
 
 Two of my favorite data-journalism bylines from my time as a staff reporter & data journalist for TIME Magazine/TIME.com.
 
